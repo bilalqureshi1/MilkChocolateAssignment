@@ -1,4 +1,4 @@
-# Milk Chocolate Assignment
+# The dataset and code is related to will it rain tommorow or not
 Done by Bilal Qureshi <br>
 Completed in python <br>
 I have completed assignment in Jupyter notebook and you can see my output by clicking the file directly on github. However if you want to run this on your system you can either use jupyter notebook or google colab. <br>
